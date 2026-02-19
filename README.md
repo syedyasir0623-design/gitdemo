@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tutedude Assignment – Basic Python
 
 ## Task 1: Personalized Greeting
@@ -49,3 +50,6 @@ File: 'task3_evenandodd.py'
 File : 'task4_loops.py'
 
 -----
+=======
+# gitdemo
+>>>>>>> 
